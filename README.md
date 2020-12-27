@@ -1,5 +1,7 @@
 # AMD
 
+#This project is done for the course Algorithms for Massive Datasets taught by Prof. Dario Malchiodi at University of Milan
+
 #Code executed in Google Colab
 #Need to upload your Kaggle json file hence to pull the dataset from Kaggle
 
